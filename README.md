@@ -1,4 +1,4 @@
-### Attendance data analysis
+### About
 
 This project analyzes match attendance data from the Argentine Primera División to understand what factors drive variation in crowd size across games.
 
